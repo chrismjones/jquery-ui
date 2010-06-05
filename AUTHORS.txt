@@ -1,4 +1,4 @@
-﻿jQuery UI Authors (http://jqueryui.com/about)
+jQuery UI Authors (http://jqueryui.com/about)
 
 This software consists of voluntary contributions made by many
 individuals. For exact contribution history, see the revision history
@@ -28,3 +28,4 @@ Keith Wood (kbwood@virginbroadband.com.au)
 Maggie Costello Wachs
 Richard D. Worth (rdworth.org)
 Jörn Zaefferer (bassistance.de)
+Christopher M Jones
