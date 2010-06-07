@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>jQuery UI Selectable - Default functionality</title>
+	<title>jQuery UI Selectable - Select Item Programmatically</title>
 	<link rel="stylesheet" href="../visual.css" type="text/css" />
 	<link rel="stylesheet" href="../../../themes/base/jquery.ui.all.css" type="text/css" />
 	<script type="text/javascript" src="../../../jquery-1.4.2.js"></script>
@@ -23,10 +23,11 @@
 		//start off the festivities
 		$("#selectable").selectable();
 		
-		//do some other js, ajax, or magic
+		//do some other js, ajax, or magic here if you like
 		
-		//decided to select something programaticaly
+		//decided to select something programmatically
 		var startSelected = $('#selectable4');
+		//I don't think this follows the format of other ui plugins, but it works and doesn't throw errors. Looking to revisit.
 		$("#selectable").selectable( "select", startSelected );
 
 	});
